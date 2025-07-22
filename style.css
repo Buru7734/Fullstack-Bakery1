@@ -1,0 +1,167 @@
+.brand{
+    color: rgb(198, 32, 32);
+    font-size: 45px;
+    margin-bottom: 5px;
+    margin-top: 0%;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    
+    
+    
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif
+    
+
+}
+
+a {
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    color: black
+    
+    
+}
+
+.bread {
+    color: white;
+    background-color: rgb(198, 32, 32);
+    display: flex;
+    height: auto;
+    width: 100px;
+    padding: 10px;
+    border-radius: 9px;
+    
+}
+
+.cakes{
+    color: white;
+    background-color: rgb(198, 32, 32);
+    display: flex;
+    height: auto;
+    width: 100px;
+    padding: 10px;
+    border-radius: 9px;
+    gap: 10px;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.cookies {
+    color: white;
+    background-color: rgb(198, 32, 32);
+    display: flex;
+    height: auto;
+    width: 100px;
+    padding: 10px;
+    border-radius: 9px;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.muffins {
+    color: white;
+    background-color: rgb(198, 32, 32);
+    display: flex;
+    height: auto;
+    width: 100px;
+    padding: 10px;
+    border-radius: 9px;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.pies {
+    color: white;
+    background-color: rgb(198, 32, 32);
+    display: flex;
+    height: auto;
+    width: 100px;
+    padding: 10px;
+    border-radius: 9px;
+}
+
+
+h1 {flex: display;
+    
+    color: black;
+    font-size: 30px;
+    margin: 0px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 2ch;
+    font-weight: bold;
+    display: flex;
+    flex-grow: 1;
+}
+
+figure{
+    background-color: rgb(245, 220, 220);
+    flex: display;
+    justify-content: left;
+   margin-left: 0% ;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(13, 11, 11);
+    color: white;
+    position:fixed;bottom:0;left:0;right:0;height:30px;
+
+}
+
+ul {
+    padding: 0px;
+    margin-top: -40px;
+    
+}
+
+blockquote {
+    margin: 0px;
+    padding: 10px 10px 0px 0px;
+    font-size: 20px;
+    color: black;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: rgb(245, 220, 220);
+    border-radius: 10px;
+    
+    
+}
+
+figcaption {
+    font-size: 20px;
+    padding: 0px 12px 15px 0px;
+    color: black;
+    margin: 0px;
+    display: flex;
+    justify-content: left;
+    align-items: center;    
+
+    
+}
